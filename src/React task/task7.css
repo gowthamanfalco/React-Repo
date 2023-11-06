@@ -1,0 +1,40 @@
+body{
+    background-color: bisque;
+}
+.cd1{
+    background-color: white;
+    width: 400px;
+    height: 265px;
+    box-shadow: 0px 5px inset red;
+    border-radius: 10px;
+}
+
+.cd2{
+    background-color: white;
+    width: 400px;
+    height: 265px;
+    box-shadow: 0px 5px inset skyblue;
+    border-radius: 10px;
+}
+
+.cd3{
+    background-color: white;
+    width: 400px;
+    height: 265px;
+    box-shadow: 0px 5px inset green;
+    border-radius: 10px;
+}
+
+.cd4{
+    background-color: white;
+    width: 400px;
+    height: 265px;
+    box-shadow: 0px 5px inset yellow;
+    border-radius: 10px;
+}
+
+.im1{
+    height: 100px;
+    width: 100px;
+    margin-left: 250PX;
+}

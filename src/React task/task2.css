@@ -1,0 +1,17 @@
+.ad {
+    background-image: url( https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png);
+    display:grid;
+    justify-content: center;
+    align-items: center; 
+    height:100vh;
+    
+}
+.bb{
+    height: 160px;
+}
+#th{
+    background-color: lightblue;
+    width: 500px;
+    height: 500px;
+    
+}

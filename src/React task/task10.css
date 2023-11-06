@@ -1,0 +1,31 @@
+body{
+    background-color: yellow;
+}
+.xm{
+    background-color: white;
+    height: 400px;
+    width: 900px;
+    border-radius: 100px;
+    margin-left: 250px;
+    margin-top: 100px;
+}
+#xc{
+    margin-left: -150px;
+    color: white;
+}
+#ew{
+    margin-left: 400px;
+    margin-top: 100px;
+    color: white;
+}
+.zg{
+    height: 200px;
+    width: 200px;
+    margin-left: 600px;
+}
+.gz{
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+    margin-top: -400px;
+}
